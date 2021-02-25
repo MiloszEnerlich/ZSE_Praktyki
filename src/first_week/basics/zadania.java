@@ -34,8 +34,8 @@ public class zadania {
 
         //Zadanie 4
         String imie="Miłosz";
-        String nazwisko="Nazwisko";
-        System.out.println("Nazywam się " +imie +nazwisko);
+        String nazwisko="Enerlich";
+        System.out.println("Nazywam się " +imie +" "+nazwisko);
 
     }
 }
