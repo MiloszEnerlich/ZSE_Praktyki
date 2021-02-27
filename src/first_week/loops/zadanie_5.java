@@ -7,10 +7,10 @@ public class zadanie_5 {
         Scanner skaner=new Scanner(System.in);
 
         System.out.println("Podaj 1. liczbę: ");
-        double a=skaner.nextInt();
+        double a=skaner.nextDouble();
 
         System.out.println("Podaj 2. liczbę: ");
-        double b=skaner.nextInt();
+        double b=skaner.nextDouble();
 
         System.out.println("Wybierz operację która chcesz wykonać (+,-,*,/): ");
         String wybor=skaner.next();
