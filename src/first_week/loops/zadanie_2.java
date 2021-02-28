@@ -16,10 +16,14 @@ public class zadanie_2 {
         int c = skaner.nextInt();
 
         if (a == b) {
-            if (a > c) {
-                System.out.println("2 pierwsze liczby są równe i większe od 3.");
-            }else{
-                System.out.println("3. liczba jest największa.");
+            if (a==c){
+                System.out.println("Wszystkie liczby są równe.");
+            }else {
+                if (a > c) {
+                    System.out.println("2 pierwsze liczby są równe i większe od 3.");
+                } else {
+                    System.out.println("3. liczba jest największa.");
+                }
             }
         } else
             {

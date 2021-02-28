@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.zadanie_5">
+  <component name="RunManager" selected="Application.zadanie_2">
     <configuration name="zadanie_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.loops.zadanie_1" />
       <module name="ZSE_Praktyki" />
@@ -95,10 +95,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zadanie_5" />
-        <item itemvalue="Application.zadanie_4" />
-        <item itemvalue="Application.zadanie_3" />
         <item itemvalue="Application.zadanie_2" />
+        <item itemvalue="Application.zadanie_4" />
+        <item itemvalue="Application.zadanie_5" />
+        <item itemvalue="Application.zadanie_3" />
         <item itemvalue="Application.zadanie_1" />
       </list>
     </recent_temporary>
