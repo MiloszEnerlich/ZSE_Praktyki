@@ -1,7 +1,6 @@
 package second_week.tables;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Random;
 
 public class zadanie_3 {
