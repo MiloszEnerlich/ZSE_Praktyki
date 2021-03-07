@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.piec">
+  <component name="RunManager" selected="Application.listy">
     <configuration name="Piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="second_week.interfaces.Piec" />
       <module name="ZSE_Praktyki" />
@@ -41,12 +41,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.interfaces.piec" />
+    <configuration name="listy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.listy.listy" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.interfaces.*" />
+          <option name="PATTERN" value="second_week.listy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.multi_arrays.zadanie_1" />
+    <configuration name="piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.interfaces.piec" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.multi_arrays.*" />
+          <option name="PATTERN" value="second_week.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.listy" />
         <item itemvalue="Application.piec" />
         <item itemvalue="Application.Piec" />
         <item itemvalue="Application.zadanie_3 (1)" />
         <item itemvalue="Application.zadanie_2" />
-        <item itemvalue="Application.zadanie_1 (1)" />
       </list>
     </recent_temporary>
   </component>
