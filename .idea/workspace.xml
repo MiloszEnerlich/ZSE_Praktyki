@@ -27,13 +27,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.zadanie_5">
-    <configuration name="listy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.listy.listy" />
+  <component name="RunManager" selected="Application.hotel_paradise">
+    <configuration name="hotel_paradise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projekt.hotel_paradise" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.listy.*" />
+          <option name="PATTERN" value="projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +41,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.interfaces.piec" />
+    <configuration name="myszka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.myszka" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.interfaces.*" />
+          <option name="PATTERN" value="third_week.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.real_loops.zadanie_3" />
+    <configuration name="quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projekt.quiz" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.real_loops.*" />
+          <option name="PATTERN" value="projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hotel_paradise" />
+        <item itemvalue="Application.quiz" />
+        <item itemvalue="Application.myszka" />
         <item itemvalue="Application.zadanie_5" />
         <item itemvalue="Application.zadanie_4" />
-        <item itemvalue="Application.zadanie_3" />
-        <item itemvalue="Application.listy" />
-        <item itemvalue="Application.piec" />
       </list>
     </recent_temporary>
   </component>
