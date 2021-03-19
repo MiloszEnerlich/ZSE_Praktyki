@@ -13,7 +13,7 @@ import java.util.Scanner;
 //    ==============================================================================
 
 public class hotel_paradise {
-    
+
     public int pokoje() {
         Scanner skaner = new Scanner(System.in);
         int cena = 0;
